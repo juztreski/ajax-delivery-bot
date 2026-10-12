@@ -1,5 +1,5 @@
 class Config {
-    static phoneNumber = '6287733312533';
+    static phoneNumber = '6285161996787';
     static maxReconnectAttempts = 5;
     static reconnectDelay = 5000;
     static logsDir = './logs';
